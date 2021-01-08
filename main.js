@@ -8,7 +8,7 @@ function randomValueFromArray(array){
 }
 
 let storyText = 'ある日、Bobと:insertx:は大学に行くために:inserty:に乗りました。すると:insertz:に会いました。3人は仲良く大学へ行きました。';
-let insertX = ['津田さん','小平さん','Father Christmas'];
+let insertX = ['津田さん','小平さん','鷹の台さん'];
 let insertY = ['新幹線','飛行機','バス'];
 let insertZ = ['織姫','彦星','サンタさん'];
 
